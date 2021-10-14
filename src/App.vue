@@ -10,7 +10,7 @@ import tareas from './views/tareas.vue'
 export default {
   name: 'App',
   components: {
-    tareas
+    tareas,
   }
 }
 </script>
